@@ -1,7 +1,7 @@
 # KnowTheirNames
 List of, and stickers for, all of those killed within the Hamas-Zionist Conflict after the Oct. 7th, 2023 Hamas Attack on Israel. Includes the names of those killed in Gaza due to bombardment from Netanyahu's Government as well as (WIP) the names of Israelis killed or kidnapped by Hamas.
 
-The stickers are generated using Inkscape and NextGenerator. Look up NextGenerator and its tutorials for usage of the extension. All stickers and data are released under GNU General Public License v3.0. 
+The stickers are generated using Inkscape and NextGenerator. Look up NextGenerator and its tutorials for usage of the extension. All stickers and data are released under GNU General Public License v3.0. Every sticker has been generated and is labeled with the name of the person associated with it. These are stored in the "Export" folders. Pages of names are collated and places in the "Pages" folders.
 
 Please treat this data and these stickers with respect. These are the names of the thousands of those killed within Israel, Gaza, the West Bank, etc. These are the names of people with families and friends, lives and dreams, histories both personal and communal; that were cut short due to xenophobia, neo-colonialism and the petty pursuits of politicians and warhawks.
 
